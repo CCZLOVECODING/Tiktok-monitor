@@ -14,8 +14,8 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.application import MIMEApplication
 if __name__ == '__main__':
 
-    EMAIL_ADDRESS="cczlovecoding@163.com"
-    EMAIL_PASSWORD="XOMSBSBCMLBAXXFT"
+    EMAIL_ADDRESS=""
+    EMAIL_PASSWORD=""
     
     #洋
     heads = {
